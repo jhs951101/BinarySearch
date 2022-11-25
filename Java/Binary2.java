@@ -19,8 +19,8 @@ public class Binary2 {
             return binarySearch(arr, target, mid + 1, end);
     }
 	
-	public void main() {
-		int[] arr = {1, 2, 3, 4, 5, 6, 7};
+    public void main() {
+	int[] arr = {1, 2, 3, 4, 5, 6, 7};
         int target = 5;
 
         // arr: 여러 값이 들어있는 배열
